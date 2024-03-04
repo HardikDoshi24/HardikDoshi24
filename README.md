@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Hardik Doshi and I'm a Software Developer, from Nadiad.</h2>
+<h2 align="left">Hi 👋! Myself, Hardik Doshi.</h2>
+
+###
+
+<br clear="both">
+
+<h4 align="center">I'm a Web Developer.</h4>
 
 ###
 
