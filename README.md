@@ -79,22 +79,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HardikDoshi24/HardikDoshi24/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/HardikDoshi24/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=HardikDoshi24&theme=dracula" alt="Layout with last medium posts"  />
 </div>
 
 ###
