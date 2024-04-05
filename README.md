@@ -70,8 +70,7 @@
 
 <br clear="both">
 <div id="github-stats">
-  <h3 align="left"> 📊Github Stats : </h3><hr>
-    <br clear="both">
+  <h2 align="left"> 📊Github Stats : </h2><hr>
 <div align="center">
   <!-- Top languages graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikDoshi24&langs_count=5&layout=compact&theme=transparent&hide_border=false" alt="languages graph"  /> <br>
