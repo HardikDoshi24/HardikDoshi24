@@ -70,9 +70,9 @@
 
 <br clear="both">
 <div id="github-stats">
-  <h3 align="left"> 📊Github Stats
-<br clear="both">
-###
+  <h3 align="left"> 📊Github Stats</h3>
+  ###
+    <br clear="both">
 <div align="center">
   <!-- Top languages graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikDoshi24&langs_count=5&layout=compact&theme=transparent&hide_border=false" alt="languages graph"  /> <br>
@@ -86,5 +86,5 @@
   <!-- Profile views counter -->
   <img src="https://profile-counter.glitch.me/HardikDoshi24/count.svg?" alt="Visitor Count"  />
 </div>
-###
+
 </div>
