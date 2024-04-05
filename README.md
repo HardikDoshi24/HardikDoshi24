@@ -79,6 +79,8 @@
 
 <br clear="both">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/HardikDoshi24/count.svg?"  />
 </div>
