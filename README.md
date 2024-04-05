@@ -25,6 +25,7 @@
 ###
 
 <div align="left">
+  <h2 align="left"> 💻Skills : </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -70,7 +71,7 @@
 
 <br clear="both">
 <div id="github-stats">
-  <h2 align="left"> 📊Github Stats : </h2><hr>
+  <h2 align="left"> 📊Github Stats : </h2>
 <div align="center">
   <!-- Top languages graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikDoshi24&langs_count=5&layout=compact&theme=transparent&hide_border=false" alt="languages graph"  /> <br>
