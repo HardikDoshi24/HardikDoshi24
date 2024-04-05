@@ -71,17 +71,16 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HardikDoshi24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HardikDoshi24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HardikDoshi24&theme=transparent&border_radius=5)](https://git.io/streak-stats)
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HardikDoshi24/count.svg?"  />
+  <!-- GitHub stats graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HardikDoshi24&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" height="150" alt="stats graph" /> <br>
+  <!-- Top languages graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikDoshi24&langs_count=5&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph"  />
+  <br>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=HardikDoshi24&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <!-- Profile views counter -->
+  <img src="https://profile-counter.glitch.me/HardikDoshi24/count.svg?" alt="Visitor Count"  />
 </div>
 
 ###
