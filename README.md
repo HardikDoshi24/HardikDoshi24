@@ -70,8 +70,7 @@
 
 <br clear="both">
 <div id="github-stats">
-  <h3 align="left"> 📊Github Stats</h3>
-  ###
+  <h3 align="left"> 📊Github Stats : </h3><hr>
     <br clear="both">
 <div align="center">
   <!-- Top languages graph -->
