@@ -69,12 +69,15 @@
 ###
 
 <br clear="both">
+<div id="github-stats">
+  <h3 align="center">
 
 <div align="center">
-  <!-- GitHub stats graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HardikDoshi24&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false"  alt="stats graph" /> <br>
   <!-- Top languages graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikDoshi24&langs_count=5&layout=compact&theme=transparent&hide_border=false" alt="languages graph"  />
+  <br>
+  <!-- GitHub stats graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HardikDoshi24&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false"  alt="stats graph" /> <br>
   <br>
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=HardikDoshi24&theme=transparent&hide_border=false" alt="GitHub Streak" />
@@ -82,5 +85,5 @@
   <!-- Profile views counter -->
   <img src="https://profile-counter.glitch.me/HardikDoshi24/count.svg?" alt="Visitor Count"  />
 </div>
-
+</div>
 ###
